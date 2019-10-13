@@ -110,7 +110,7 @@ Here we plot a couple of histograms of Poisson distributions.
 
 ```{r}
 x <- 0:10
-plot(x,dpois(x,3.2),type='h',lwd=2,main='Poisson distribution, lambda=2')
+plot(x,dpois(x,3.2),type='h',lwd=2,main='Poisson distribution, lambda=3.2')
 ```
 
 The Poisson distribution has a characteristic shape, slightly left
