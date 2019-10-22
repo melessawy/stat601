@@ -45,7 +45,7 @@ It turns out that one particular definition of $B$ has nice properties
 that we can work with:
 
 \begin{equation}
-B=\sum_i\frac{\left(e_i-o_i\right)^2}{e_i}
+B=\sum_i\frac{\left(o_i-e_i\right)^2}{e_i}
 \end{equation}
 
 where $o_i$ is the $i^\mathrm{th}$ observation and $e_i$ is the
